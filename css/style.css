@@ -240,3 +240,11 @@ footer.page-footer {
   margin: 10px auto;
   opacity: 0.2;
 }
+.btn-large,
+.btn {
+  background: linear-gradient(#954d9e, #df3c96, #f69385, #f6c49c);
+}
+
+.textcolor {
+  color: rgba(216, 137, 190, 0.678);
+}

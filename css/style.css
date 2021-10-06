@@ -20,6 +20,8 @@ nav .brand-logo {
 .menu a:hover{
   background: linear-gradient(#954d9e, #df3c96);
   color: #fff;
+  transition: 0.5s;
+  cursor: pointer;
 }
 
 p {

@@ -9,10 +9,17 @@
 html {
   scroll-behavior: smooth;
 }
+body{
+  font-family: 'Roboto', sans-serif;
+}
 
 nav ul a,
 nav .brand-logo {
   color: #444;
+}
+.menu a:hover{
+  background: linear-gradient(#954d9e, #df3c96);
+  color: #fff;
 }
 
 p {
@@ -248,3 +255,4 @@ footer.page-footer {
 .textcolor {
   color: rgba(216, 137, 190, 0.678);
 }
+
